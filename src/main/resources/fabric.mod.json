@@ -16,7 +16,7 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.leaf.ExampleMod"
+			"com.leaf.LightBulb"
 		],
 		"client": [
 			"com.leaf.ExampleModClient"

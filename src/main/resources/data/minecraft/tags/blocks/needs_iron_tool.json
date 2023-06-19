@@ -1,0 +1,8 @@
+{
+  "replace" : false,
+  "values" :[
+    "lightbulb:tanzanite_block",
+    "lightbulb:tanzanite_ore",
+    "lightbulb:deepslate_tanzanite_ore"
+  ]
+}

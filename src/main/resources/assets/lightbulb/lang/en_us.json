@@ -1,0 +1,9 @@
+{
+  "item.lightbulb.raw_tanzanite" : "Raw Tanzanite",
+  "item.lightbulb.tanzanite" : "Tanzanite",
+
+  "block.lightbulb.tanzanite_block" : "Block of Tanzanite",
+  "block.lightbulb.deepslate_tanzanite_ore" : "Deepslate Tanzanite Ore",
+  "block.lightbulb.tanzanite_ore" : "Tanzanite Ore",
+  "itemGroup.lightbulb.tanzanite" : "Tanzanite Item Tab"
+}
